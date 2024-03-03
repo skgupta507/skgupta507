@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Sunil Gupta, A full-stack, frontend specializing Indie web & app dev<br> 
-🔱 Currently working at superu, https://superu.ai || https://github.com/skgupta507<br>
+🔱 Currently working at Royalorchid, https://sunil.is-a.dev || https://github.com/skgupta507<br>
 🌟 Off-late building some cool stuff with three.js <br>
 📫 Reach out to me at sunil@demonking.pp.ua
 
