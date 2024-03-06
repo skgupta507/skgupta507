@@ -16,15 +16,15 @@
 
 <be>
 
-- 🌱 I’m currently studying **Indian Institute of Information Technology, Sri City**
+- 🌱 I’m currently studying **Brindavan Collage of Engineering, Bangalore City**
 
-- 👨‍💻 All of my projects are available at [https://sachin4u.vercel.app/](https://sachin4u.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://skgupta507.vercel.app/](https://skgupta507.vercel.app/)
 
 - 💬 Ask me about **mern-stack.**
 
-- 📫 How to reach me **mrsm492002@gmail.com**
+- 📫 How to reach me **sunil@demonking.pp.ua**
 
-- 📄 Know about my experiences [https://sachin4u.vercel.app/Resume.pdf](https://sachin4u.vercel.app/Resume.pdf)
+- 📄 Know about my experiences [https://skgupta507.vercel.app/Resume.pdf](https://skgupta507.vercel.app/Resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -37,7 +37,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/9jxcqxtaczxe91215r4zy9p5s?si=kHAsyjw3RcCDInoezRHZIA)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]((https://open.spotify.com/user/31dpihgzi5gjacmwiib754fb47ga?si=fliL5w5zS7mHPCUU377BLw)
 
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
