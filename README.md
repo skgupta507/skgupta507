@@ -2,7 +2,7 @@
 
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img align="right" src="https://profile-counter.glitch.me/sachin492002/count.svg">
+<img align="right" src="https://profile-counter.glitch.me/skgupta507/count.svg">
 <br>
 
   <div align="center" >
