@@ -37,10 +37,11 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify][(https://novatorem.bgstatic.vercel.app/api/spotify)]((https://open.spotify.com/user/31dpihgzi5gjacmwiib754fb47ga?si=fliL5w5zS7mHPCUU377BLw))
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dpihgzi5gjacmwiib754fb47ga?si=fliL5w5zS7mHPCUU377BLw&nd=1&dlsi=9504e7dee8a446c5)
 
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -189,7 +190,7 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/alansomathew" target="_blank">
+  <a href="https://github.com/skgupta507" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <!-- <a href="https://gitlab.com/Elanza-48" target="_blank">
@@ -255,7 +256,10 @@
 
 ---
 
-![Snake animation](https://github.com/sachin492002/sachin492002/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
