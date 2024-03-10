@@ -16,15 +16,15 @@
 
 <be>
 
-- 🌱 I’m currently studying **Brindavan Collage of Engineering, Bangalore City**
+- 🌱 I’m currently studying at **Brindavan Collage of Engineering, Bangalore City**
 
-- 👨‍💻 All of my projects are available at [https://skgupta507.vercel.app/](https://skgupta507.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://skgupta.vercel.app](https://skgupta.vercel.app)
 
 - 💬 Ask me about **mern-stack.**
 
 - 📫 How to reach me **sunil@demonking.pp.ua**
 
-- 📄 Know about my experiences [https://skgupta507.vercel.app/Resume.pdf](https://skgupta507.vercel.app/Resume.pdf)
+- 📄 Know about my experiences [https://skgupta.vercel.app/Resume.pdf](https://skgupta.vercel.app/Resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -37,7 +37,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]((https://open.spotify.com/user/31dpihgzi5gjacmwiib754fb47ga?si=fliL5w5zS7mHPCUU377BLw))
+[![Spotify][(https://novatorem.bgstatic.vercel.app/api/spotify)]((https://open.spotify.com/user/31dpihgzi5gjacmwiib754fb47ga?si=fliL5w5zS7mHPCUU377BLw))
 
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -261,17 +261,17 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="center">
-<a href="mailto:mrsm492002@gmail.com"><img img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/></a>
-	<a href="https://wa.me/918824094063"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp"/></a>
-	<a href="https://linkedin.com/in/sachin-meena-9188ab200"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/xo_sachin1/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/></a>	
-  <a href="https://t.me/mksm34"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/></a>
-  <a href="https://www.hackerrank.com/mrsm492002"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank"/>
-  <a href="https://www.codechef.com/users/xo_creature"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="hackerrank"/>
-  <a href="https://codeforces.com/profile/sachin492002"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="hackerrank"/>
-  <a href="https://www.leetcode.com/user2026es"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="hackerrank"/>
-  <a href="https://www.hackerearth.com/@mrsm492002"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="hackerrank"/>
-  <a href="https://geeksforgeeks.org/user/mrsm492002/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="hackerrank"/>
+<a href="mailto:sunilk98850@gmail.com"><img img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/></a>
+	<a href="https://wa.me/917892430507"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp"/></a>
+	<a href="https://linkedin.com/in/sunil-gupta-798914144"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/sk.gupta507/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram"/></a>	
+  <a href="https://t.me/skgupta507"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="Telegram"/></a>
+  <a href="https://www.hackerrank.com/skgupta507"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank"/>
+  <a href="https://www.codechef.com/users/skgupta507"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="hackerrank"/>
+  <a href="https://codeforces.com/profile/skgupta507"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="hackerrank"/>
+  <a href="https://www.leetcode.com/skgupta507"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="hackerrank"/>
+  <a href="https://www.hackerearth.com/@skgupta507"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="hackerrank"/>
+  <a href="https://geeksforgeeks.org/user/skgupta507/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="hackerrank"/>
   </a>
 </p>
 
