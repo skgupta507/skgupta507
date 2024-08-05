@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently studying at **Brindavan Collage of Engineering, Bangalore City**
 
-- 👨‍💻 All of my projects are available at [https://skgupta.vercel.app](https://skgupta.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sunil.is-a.dev]([https://sunil.is-a.dev])
 
 - 💬 Ask me about **mern-stack.**
 
